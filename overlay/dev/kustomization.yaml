@@ -4,5 +4,5 @@ resources:
 - ../../base
 images:
 - name: api-server-image
-  newName: plox/modoosugang_server
+  newName: plox/modoosugang-server
   newTag: "2"
